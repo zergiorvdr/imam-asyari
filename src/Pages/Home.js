@@ -61,7 +61,7 @@ function Home() {
       <div>
         <h1
           ref={h12}
-          className="text-3xl bg-clip-text text-gray-400 text-transparent md:text-4xl xl:text-5xl xl:leading-tight font-bold"
+          className="text-3xl text-gray-400 md:text-4xl xl:text-5xl xl:leading-tight font-bold"
         >
           {name}
         </h1>
