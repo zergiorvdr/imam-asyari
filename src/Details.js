@@ -30,13 +30,13 @@ import projectImage6 from "./assets/projects/project6.jpg";
 // Logos
 export const logos = {
   logogradient: logogradient,
-  logo: logo,
+  logo: logo
 };
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Imam A'syari",
-  tagline: "I build things for web",
+  name: "𝖑𝖔𝖕𝖎𝖓",
+  tagline: "Web Developer || Blockchain Developer || Software Enginner",
   img: profile,
   about: `As a web developer, I am a creative and technical individual with an innovative ability to deliver high-quality solutions. I tend to be collaborative, detail-oriented, and operate with multidisciplinary skills. My analytical and problem-solving abilities enable me to work independently, produce user-focused interfaces, and ensure high-quality project outcomes. I am a learning enthusiast, always open to new technologies, and adept at adapting to changes, making me a proactive, organized, and efficient web developer.`,
 };
