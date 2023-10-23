@@ -61,7 +61,7 @@ function Home() {
       <div>
         <h1
           ref={h12}
-          className="text-4xl bg-clip-text text-white text-transparent md:text-4xl xl:text-5xl xl:leading-tight font-bold"
+          className="text-3xl bg-clip-text text-gray-400 text-transparent md:text-4xl xl:text-5xl xl:leading-tight font-bold"
         >
           {name}
         </h1>
@@ -72,8 +72,8 @@ function Home() {
           {tagline}
         </h2>
       </div>
-      <div className="mt-5 md:mt-0">
-        <img ref={myimageref} className="w-1/2 md:ml-auto" src={img} alt="Pavan MG" />
+      <div className="mt-2 md:mt-0">
+        <img ref={myimageref} className="w-1/2 md:ml-auto" src={img} alt="Lopin" />
       </div>
     </main>
   );

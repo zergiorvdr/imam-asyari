@@ -29,8 +29,8 @@ import projectImage6 from "./assets/projects/project6.jpg";
 
 // Logos
 export const logos = {
-  logogradient: logogradient,
-  logo: logo
+  logogradient : logogradient,
+  logo : logo
 };
 
 // Enter your Personal Details here
